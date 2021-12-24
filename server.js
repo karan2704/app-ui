@@ -9,7 +9,7 @@ const PORT = 8080
 app.post('/api/state/cache', (req, res) => {
     res.status(204).json({
         error: false,
-        message: "Message from server !!"
+        message: "Message from server!!"
     })
 })
 
