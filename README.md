@@ -26,7 +26,5 @@ Note: Using concurrently package we are able to run the client and mock server u
 
 ![image](https://user-images.githubusercontent.com/59208977/147379617-e3916126-cd7b-414a-9fe6-d707322ec640.png)
 
-![image](https://user-images.githubusercontent.com/59208977/147528429-038c8c54-8461-4e0d-a5dc-9b8284062da4.png)
-
-
+![image](https://user-images.githubusercontent.com/59208977/147528911-995743ef-ea7a-4d21-ba6b-b999f0052a9b.png)
 
